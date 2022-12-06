@@ -8,8 +8,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 - Use [schema.sql](./schema.sql) to create all tables.
 - Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
-
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. 
 
 ## Authors
 
@@ -18,6 +17,16 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - GitHub: [@Kelvin-Ben](https://github.com/Kelvin-Ben)
 - Twitter: [@kevoyout144](https://twitter.com/kevoyout144)
 - LinkedIn: [Kelvin-Ben](https://www.linkedin.com/in/kelvin-ben-323043173/)
+
+## Project Milestones
+
+- Milestone 1: create animals table. :heavy_check_mark:  
+- Milestone 2: query and update animals table. :heavy_check_mark: 
+- Milestone 3: query multiple tables :heavy_check_mark:
+- Milestone 4: add "join table" for visits :heavy_check_mark:
+- Milestone 5: database performance audit. :gear:
+- Milestone 6: Tests (pair programming). :hammer_and_wrench:
+- Milestone 7: add database schema diagram :hammer_and_wrench:
 
 
 ## 🤝 Contributing
