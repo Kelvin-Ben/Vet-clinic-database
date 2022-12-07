@@ -57,11 +57,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Vet clinic database: create animals table <a name="about-project"></a>
+# 📖 Vet clinic database: query and update animals table <a name="about-project"></a>
 
-> In this project, I will use a relational database to create the initial data structure for a vet clinic. I will create a table to store animals' information, insert some data into it, and query it.
+> In this project, I will use transactions to update and delete records. I will also use my knowledge of aggregate functions and GROUP BY to answer analytical questions.
 
-**[your_project__name]** is a...
+**[query and update animals table]** is a project that I will use transactions to update and delete records. I will also use my knowledge of aggregate functions and GROUP BY to answer analytical questions.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -72,14 +72,14 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/"></a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://expressjs.com/"></a></li>
   </ul>
 </details>
 
@@ -202,7 +202,7 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Author**
 
 👤 **Kelvin Benjamin**
 
@@ -240,7 +240,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project give it a 5 star rate
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,7 +250,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank microverse for opportunity to interact with several developers all over the world.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
