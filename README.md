@@ -57,11 +57,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Vet clinic database: query and update animals table <a name="about-project"></a>
+# 📖 Vet clinic database: query multiple tables <a name="about-project"></a>
 
-> In this project, I will use transactions to update and delete records. I will also use my knowledge of aggregate functions and GROUP BY to answer analytical questions.
+> In this project I will add some new tables and add foreign key columns to my existing animals table to model one-to-many relationships. Afterward, I will use JOIN to query the data.
 
-**[query and update animals table]** is a project that I will use transactions to update and delete records. I will also use my knowledge of aggregate functions and GROUP BY to answer analytical questions.
+**[query multiple tables]** is a project that I will add some new tables and add foreign key columns to my existing animals table to model one-to-many relationships. Afterward, I will use JOIN to query the data.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -116,9 +116,15 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
-To get a local copy up and running, follow these steps.
+> To get a local copy up and running, follow these steps.
+
+1- Navigate to the button on the top right green "code" button.
+
+2- In the drop down menu choose "Download Zip" or clone it using git using the following command.
+
+3- After extracting the files, you'll have my project on your local machine.
+
 
 ### Prerequisites
 
