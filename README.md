@@ -57,11 +57,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Vet clinic database: query multiple tables <a name="about-project"></a>
+# 📖 Vet clinic database: add "join table" for visits <a name="about-project"></a>
 
-> In this project I will add some new tables and add foreign key columns to my existing animals table to model one-to-many relationships. Afterward, I will use JOIN to query the data.
+> In this project, I will add some many-to-many relationships and write more complex queries to use them to answer questions.
 
-**[query multiple tables]** is a project that I will add some new tables and add foreign key columns to my existing animals table to model one-to-many relationships. Afterward, I will use JOIN to query the data.
+**[add "join table" for visits]** is a project that I will add some new tables and add foreign key columns to my existing animals table to model one-to-many relationships. Afterward, I will use JOIN to query the data.
 
 ## 🛠 Built With <a name="built-with"></a>
 
